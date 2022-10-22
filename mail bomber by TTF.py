@@ -36,11 +36,3 @@ for i in range(0,number):
 
 srv.quit()
 print("This script created by Emon {Senior admin of TTF and Cyber talks!}")
-
-
-
-
-
-
-
-

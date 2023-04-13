@@ -35,4 +35,4 @@ for i in range(0,number):
     print(f"{i} Mails sent----")
 
 srv.quit()
-print("This script created by Emon {Senior admin of TTF and Cyber talks!}")
+print("This script created by Emon - MR. Lucifer Morningstar")
